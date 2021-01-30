@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Mackenzie CI. Feel free to take a look around my repositories for some of the work I can do.
+
 - 🔭 I’m currently working on [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy), my non profit organization where I work as a web developer.
 
-
-Welcome to my GitHub profile, this is currently a work in progress. Check back later for more info!
 
 <!-- [![thejammerr's github stats](https://github-readme-stats.vercel.app/api?username=thejammerr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
