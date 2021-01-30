@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Macken
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=thejammerr&show_icons=true&theme=tokyonight&hide=prs&line_height=24" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=thejammerr&show_icons=true&theme=algolia&hide=prs&line_height=24" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&layout=compact&theme=tokyonight" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&layout=compact&theme=algolia" />
 </a>
