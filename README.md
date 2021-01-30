@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [![Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy), my non profit organization where I work as a web developer.
+- 🔭 I’m currently working on [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy), my non profit organization where I work as a web developer.
 
 
 Welcome to my GitHub profile, this is currently a work in progress. Check back later for more info!
