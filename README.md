@@ -24,7 +24,7 @@ Check out my [website](https://jaegwanpark.ca)!
 
 <!-- [![thejammerr's github stats](https://github-readme-stats.vercel.app/api?username=thejammerr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=thejammerr&show_icons=true&theme=algolia&hide=prs&line_height=24" />
