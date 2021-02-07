@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Macken
 
 - 🔭 I currently spend most my time working on [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy), my non profit organization where I work as a web developer and lesson author.
 - 🌱 I’m currently learning backend SQL/firebase so that I can integrate a database of contest problems into Incendium Academy's website.
-- ⚙️ I'm proficient in `java`, `C/C++`, `HTML/CSS`, `Turing`
+- ⚙️ I'm proficient in `java`, `C/C++`, `HTML`, `CSS/SCSS`, `Turing`
 - ⚡ I spend my extra time writing and doing competitive programming. 
 - 📫 How to reach me: [Email](mailto:jaepark.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 - 😄 Pronouns: He/Him
