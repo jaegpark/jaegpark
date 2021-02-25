@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Macken
 
 - 🔭 I currently spend most my time working on [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy), my non profit organization where I work as a web developer and lesson author.
 - 🌱 I’m currently learning SQL/Python so that I can integrate more random features to my Discord Bot. 
-- ⚙️ I'm proficient in `java`, `C/C++`, `HTML/markdown`, `CSS`, `SCSS`, `Turing`, `LaTeX`, and have experience using `YAML`, `jekyll`, `ruby`, `JavaScript`, and `liquid`.
+- ⚙️ I'm proficient in `java`, `C/C++`, `HTML`,  `markdown`, `CSS`, `SCSS`, `Turing`, `LaTeX`, and have experience using `YAML`, `jekyll`, `ruby`, `JavaScript`, and `liquid`.
 - ⚡ I spend my extra time writing, exploring the depths of Spotify, and learning chess. 
 - 📫 How to reach me: [Email](mailto:jaepark.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 - 😄 Pronouns: He/Him
