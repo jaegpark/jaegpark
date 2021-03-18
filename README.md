@@ -32,5 +32,5 @@ Check out my [website](https://jaegwanpark.ca) for a better impression of me wit
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=thejammerr&show_icons=true&theme=algolia&hide=prs&line_height=24&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&langs_count=8&layout=compact&theme=algolia" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&langs_count=10&layout=compact&theme=algolia" />
 </a>
