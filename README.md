@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Mackenzie CI. Feel free to take a look around my pinned repositories to see some of the work I've done.
 
-- 🔭 I currently spend most my time working on [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy), my non profit organization where I work as a web developer and lesson author.
-- 🌱 I’m currently learning SQL/Python so that I can integrate more features to my Discord Bot and work on the backend for Incendium Academy. 
+- 🔭 I currently spend most my time taking online courses, like MIT's [18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm).
+- 🌱 I’m also learning SQL/Python so that I can integrate more features to my Discord bot and work on backend for [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy). 
 - ⚙️ I'm proficient in `java`, `C/C++`, `arduino C`, `HTML`,  `markdown`, `CSS`, `SCSS`, `Turing`, `LaTeX`, and have experience using `YAML`, `jekyll`, `ruby`, `JavaScript`, `assembly` and `liquid`.
 - ⚡ I spend my extra time writing, exploring the depths of Spotify, and learning chess. 
 - 📫 How to reach me: [Email](mailto:jaepark.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
