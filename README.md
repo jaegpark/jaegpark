@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Macken
 
 - 🔭 I currently spend most my time taking online courses, like MIT's [18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm).
 - 🌱 I’m also learning SQL/Python so that I can integrate more features to my Discord bot and work on backend for [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy). 
-- ⚙️ I'm proficient in `java`, `C/C++`, `arduino C`, `HTML`,  `markdown`, `CSS`, `SCSS`, `Turing`, `LaTeX`, and have experience using `YAML`, `jekyll`, `ruby`, `JavaScript`, `assembly` and `liquid`.
+- ⚙️ I'm proficient in `java`, `arduino C`, `C/C++`, `HTML`,  `markdown`, `CSS`, `SCSS`, `Turing`, `LaTeX`, and have experience using `YAML`, `jekyll`, `ruby`, `JavaScript`, `assembly` and `liquid`.
 - ⚡ I spend my extra time writing, exploring the depths of Spotify, and learning chess. 
 - 📫 How to reach me: [Email](mailto:jaepark.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 - 😄 Pronouns: He/Him
