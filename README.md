@@ -10,15 +10,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-
 -->
 
-Welcome to my GitHub profile! I'm a grade 12 MaCS student at William Lyon Mackenzie CI. Feel free to take a look around my pinned repositories to see some of the work I've done.
+Welcome to my GitHub profile! I'm an incoming Engineering Science student at the University of Toronto. Feel free to take a look around my pinned repositories to see some of the work I've done.
 
-- 🔭 I currently spend most my time taking online courses, like MIT's [18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm).
-- 🌱 I’m also learning SQL/Python so that I can integrate more features to my Discord bot and work on backend for [Incendium Academy](https://github.com/IncendiumAcademy/IncendiumAcademy). 
-- ⚙️ I'm proficient in `java`, `arduino C`, `C/C++`, `HTML`,  `markdown`, `CSS`, `SCSS`, `Turing`, `LaTeX`, and have experience using `YAML`, `jekyll`, `ruby`, `JavaScript`, `assembly` and `liquid`.
-- ⚡ I spend my extra time writing, exploring the depths of Spotify, and learning chess. 
+- 🔭 I'm working full time as a Research Intern at Sunnybrook Research Institute, supervised by Dr. Ryan Jones in the Focused Ultrasound Lab.
+- 🌱 I’m currently learning MATLAB/image processing algorithms to help me in my research. 
+- ⚙️ I'm proficient in `java`, `arduino C/C++`, `HTML/CSS/SCSS`, `git`, `LaTeX`, and have experience using `MATLAB`, `Python`, `YAML`, `jekyll/liquid`, `VEXcode`, `WeBots` libraries, `8085 assembly`, and `Turing`.
+- ⚡ I spend my free time writing, exploring the depths of Spotify, and playing games. 
 - 📫 How to reach me: [Email](mailto:jaepark.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 - 😄 Pronouns: He/Him
 
