@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm an incoming Engineering Science student at the University of Toronto. Feel free to take a look around my pinned repositories to see some of the work I've done.
 
-- 🔭 I'm working full time as a Research Intern at Sunnybrook Research Institute, supervised by Dr. Ryan Jones in the Focused Ultrasound Lab.
+- 🔭 I'm working full time over the summer as a Research Intern at Sunnybrook Research Institute, supervised by Dr. Ryan Jones in the Focused Ultrasound Lab.
 - 🌱 I’m currently learning MATLAB/image processing algorithms to help me in my research. 
 - ⚙️ I'm proficient in `java`, `arduino C/C++`, `HTML/CSS/SCSS`, `git`, `LaTeX`, and have experience using `MATLAB`, `Python`, `YAML`, `jekyll/liquid`, `VEXcode`, `WeBots` libraries, `8085 assembly`, and `Turing`.
 - ⚡ I spend my free time writing, exploring the depths of Spotify, and playing games. 
