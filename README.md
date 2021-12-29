@@ -1,4 +1,5 @@
 
+<!--
 ### Hello there 👋
 
 <!--
@@ -12,6 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 -->
+<!--
+
 Welcome to my GitHub profile! I'm a first year Engineering Science student at the University of Toronto. Feel free to take a look around my pinned repositories to see some of the work I've done.
 
 - 🔭 I'm working part time during the school year as a Research Assistant at Sunnybrook Research Institute, supervised by Dr. Ryan Jones in the Focused Ultrasound Lab.
@@ -29,3 +32,4 @@ Check out my [website](https://jaegwanpark.ca) for a better impression of me wit
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejammerr&langs_count=10&layout=compact&theme=algolia" />
 </a>
 
+-->
