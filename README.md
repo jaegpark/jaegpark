@@ -1,5 +1,5 @@
 
-Welcome to my GitHub profile! I'm a first year Engineering Science student at the University of Toronto. Feel free to take a look around my pinned repositories to see some of the work I've done.
+Welcome to my GitHub profile! I'm a second year Computer Engineering student at the University of Toronto. Feel free to take a look around my pinned repositories to see some of the work I've done.
 <!--
 ### Hello there 👋
 
