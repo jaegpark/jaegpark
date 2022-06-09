@@ -1,7 +1,18 @@
 
-Welcome to my GitHub profile! I'm a second year Computer Engineering student at the University of Toronto. Feel free to take a look around my pinned repositories to see some of the work I've done.
-<!--
-### Hello there 👋
+Hi!👋 Call me Jae.
+
+I'm a second year Computer Engineering student at the University of Toronto. 
+
+I'm interested in how we can use AI to fight climate change. Especially using methods like: 
+
+- Time series predictions
+- Generative models
+- NLP
+
+🔭 I'm currently working on a 24 hour PV forecasting model with Open Climate Fix.
+
+📫 Feel free to reach out to me! Always happy to chat. [Twitter](https://twitter.com/jaegpark) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
+
 
 <!--
 **thejammerr/thejammerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +20,6 @@ Welcome to my GitHub profile! I'm a second year Computer Engineering student at 
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
@@ -17,10 +27,9 @@ Here are some ideas to get you started:
 <!--
 
 
-- 🔭 I'm working part time during the school year as a Research Assistant at Sunnybrook Research Institute, supervised by Dr. Ryan Jones in the Focused Ultrasound Lab.
+
 - 🌱 I’m currently learning MATLAB/image processing/machine learning algorithms to help me in my research.
 - ⚙️ I'm proficient in `MATLAB`, `Python`, `Java`, `C/C++`, `HTML`, `CSS`, and `LaTeX`.
-- 📫 How to reach me: [Email](mailto:jaepark.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 - 😄 Pronouns: He/Him
 
 Check out my [website](https://jaegwanpark.ca) for a better impression of me with my resume and references!
