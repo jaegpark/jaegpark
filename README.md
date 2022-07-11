@@ -5,9 +5,9 @@ I'm a second year Computer Engineering student at the University of Toronto.
 
 I'm interested in how we can use AI to fight climate change. Especially using methods like: 
 
-- Time series predictions
+- Time series modelling
 - Generative models
-- NLP
+- Multimodality
 
 🔭 I'm currently working on a 24 hour PV forecasting model with Open Climate Fix.
 
