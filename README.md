@@ -3,7 +3,7 @@ Hi!👋 Call me Jae.
 
 I'm a second year Computer Engineering student at the University of Toronto. 
 
-I'm interested in how we can use AI to fight climate change. Especially using methods like: 
+I'm interested in how we can use AI to build a better future. Currently learning: 
 
 - Time series modelling
 - Generative models
