@@ -1,17 +1,15 @@
 
 Hi!👋 Call me Jae.
 
-I'm a second year Computer Engineering student at the University of Toronto. 
-
-I'm interested in how we can use AI to build a better future. Currently learning: 
+I'm studying Computer Engineering at the University of Toronto. I'm interested in how we can use AI to build a better future. Currently learning: 
 
 - Time series modelling
 - Generative models
 - Multimodality
 
-🔭 I'm currently working on a 24 hour PV forecasting model with Open Climate Fix.
+I'm also working on a 24 hour PV forecasting model with Open Climate Fix.
 
-📫 Feel free to reach out to me! Always happy to chat. [Twitter](https://twitter.com/jaegpark) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
+Always happy to chat. [Twitter](https://twitter.com/jaegpark) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 
 
 <!--
