@@ -9,7 +9,6 @@ I'm studying Computer Engineering at the University of Toronto. I'm interested i
 
 I'm also working on a 24 hour PV forecasting model with Open Climate Fix.
 
-Always happy to chat. [Twitter](https://twitter.com/jaegpark) | [LinkedIn](https://www.linkedin.com/in/jae-gwan-park-604921189/)
 
 
 <!--
