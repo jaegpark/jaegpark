@@ -1,6 +1,6 @@
 
 
-Hi!👋 I'm Jae. I'm studying Computer Engineering at the University of Toronto. I'm interested in how we can use AI to build a better future.
+Hi!👋 I'm Jae. I'm studying Computer Engineering at the University of Toronto. I'm really interested in AGI.
 
 <!--
  Currently learning: 
