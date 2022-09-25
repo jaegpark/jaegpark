@@ -1,4 +1,6 @@
 
+
+<!--
 Hi!👋 Call me Jae.
 
 I'm studying Computer Engineering at the University of Toronto. I'm interested in how we can use AI to build a better future. Currently learning: 
@@ -7,11 +9,8 @@ I'm studying Computer Engineering at the University of Toronto. I'm interested i
 - Generative models
 - Multimodality
 
-I'm also working on a 24 hour PV forecasting model with Open Climate Fix.
 
 
-
-<!--
 **thejammerr/thejammerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
