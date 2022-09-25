@@ -1,9 +1,9 @@
 
 
-<!--
-Hi!👋 Call me Jae.
+Hi!👋 I'm Jae. I'm studying Computer Engineering at the University of Toronto. I'm interested in how we can use AI to build a better future.
 
-I'm studying Computer Engineering at the University of Toronto. I'm interested in how we can use AI to build a better future. Currently learning: 
+<!--
+ Currently learning: 
 
 - Time series modelling
 - Generative models
