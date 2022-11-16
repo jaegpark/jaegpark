@@ -1,6 +1,6 @@
 
 
-Hi!👋 I'm Jae. I'm studying Computer Engineering at the University of Toronto. I'm really interested in AGI.
+AGI go brr
 
 <!--
  Currently learning: 
