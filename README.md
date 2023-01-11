@@ -1,6 +1,5 @@
-
-
-AGI go brr
+Won Climatehack 2022
+Now tinkering with AGI and shipping cool products
 
 <!--
  Currently learning: 
