@@ -1,4 +1,5 @@
-Won 2nd place at Climatehack 2022
+Won 2nd place at Climatehack 2022.
+
 Now tinkering with AGI and shipping cool products
 
 <!--
