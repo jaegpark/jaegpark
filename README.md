@@ -1,5 +1,4 @@
-Thinking about AGI. 
-
+Building a robot
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
