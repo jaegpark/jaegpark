@@ -1,4 +1,4 @@
- Building a robot. Giving LLMs brains. Simulating the world. Diagnosing society's problems.
+ Building a robot. Simulating the atmosphere. Making brains for LLMs. Diagnosing society's problems.
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
