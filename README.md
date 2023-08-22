@@ -1,4 +1,4 @@
- Building a robot. Simulating the atmosphere. Making brains for LLMs. Diagnosing society's problems.
+I write code
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
